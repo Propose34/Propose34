@@ -1,16 +1,55 @@
-## Hi there 👋
+Hi, I'm PUPR 👋
 
-<!--
-**Propose34/Propose34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring QA Tester | Learning Software Testing 🌱
 
-Here are some ideas to get you started:
+Just someone who's curious about how software works, why things break, and how to make them better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and working my way into the world of Software Quality Assurance.
+
+🌿 A Little About Me
+
+🔍 Exploring the world of Software Testing & QA
+
+🧪 Learning to think like a tester, one step at a time
+
+🐛 Interested in finding bugs and understanding how to prevent them
+
+☕ Learning, practicing, and figuring things out along the way
+
+🛠️ My Learning Journey
+
+Area
+
+What I'm Exploring
+
+🧪 Testing Fundamentals
+
+SDLC, STLC, Testing Types
+
+📝 Manual Testing
+
+Test Cases, Test Scenarios, Checklists
+
+🐛 Bug Reporting
+
+Bug Reports, Severity & Priority
+
+🔌 API Testing
+
+HTTP Methods, Requests & Responses
+
+⚙️ Test Automation
+
+Exploring the basics
+
+📂 What's Happening Here?
+
+This GitHub is my little space to keep track of what I'm learning.
+
+📚 Notes and learning resources
+
+🧩 Hands-on testing practice
+
+🚀 Small projects as I keep improving
+
+Still learning. Still curious. Always improving. 🌱
